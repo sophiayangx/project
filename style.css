@@ -21,3 +21,7 @@ background: ;
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.form {
+margin-top: 10px;
+}
