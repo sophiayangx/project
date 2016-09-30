@@ -1,6 +1,6 @@
 var character = "submit"
 
 submit.click(function(adsf) {
-  console.log()
+  console.log("yy")
  return joey;
 })
