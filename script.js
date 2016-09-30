@@ -1,6 +1,5 @@
 var character = "submit"
 
-colorfulElements.hover(function(e) {
-  var elementHoveredOver = $(e.target)
+character.click(function() {
   colorNameDisplay.html(elementHoveredOver.attr("id"));
 })
