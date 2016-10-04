@@ -6,3 +6,5 @@ submit.click(function(adsf) {
 })
 
 confirm("Are you sure you want to leave this page?")
+"sophia".length
+console.log("adsf")
