@@ -6,5 +6,5 @@ console.log("sophia".length)
 //// return joey;
 //})
 
-confirm("Joey!");
-prompt("Which Friends character are you?");
+//confirm("Joey!");
+//prompt("Which Friends character are you?");
