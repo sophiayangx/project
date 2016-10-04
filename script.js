@@ -7,3 +7,4 @@ console.log()
 //})
 
 confirm("Joey!");
+prompt("Which Friends character are you?");
