@@ -1,8 +1,9 @@
-console.log(confirm.("i'm amazing"))
+console.log()
 "sophia".length
-confirm.("i'm amazing")
 
 //var submit = "character"
 ////submit.click(function(adsf) {
 //// return joey;
 //})
+
+confirm("Joey!");
