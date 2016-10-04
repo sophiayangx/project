@@ -1,4 +1,4 @@
-console.log()
+console.log("sophia".length)
 "sophia".length
 
 //var submit = "character"
