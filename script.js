@@ -1,6 +1,6 @@
 console.log("sophia".length>4)
 "sophia".length
-console.log(5>4)
+console.log(5!==5)
 
 //var submit = "character"
 ////submit.click(function(adsf) {
