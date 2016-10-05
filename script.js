@@ -11,7 +11,10 @@ console.log(5<=5,6)
 //prompt("Which Friends character are you?");
 var submitButton = $("submit-button")
 
-submitButton.click(function(e) {	
-  deleteValue("sophiasList");
+submitButton.click(function() {	
   $("#list-display").empty()
 })
+
+$( "button" ).click(function() {
+  $( "p" ).empty();
+});
