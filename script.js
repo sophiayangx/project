@@ -15,6 +15,6 @@ submitButton.click(function() {
   $("#list-display").getElementbyId("");
 });
 
-function() {
-  document.getElementById("myCheck").click();
+var submitButton function() {
+  document.getElementById("submit-button").click();
 }
