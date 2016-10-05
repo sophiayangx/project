@@ -12,9 +12,9 @@ console.log(5<=5,6)
 var submitButton = $("submit-button")
 
 submitButton.click(function() {	
-  $("#list-display").empty()
-})
-
-$( "button" ).click(function() {
-  $( "p" ).empty();
+  $("#list-display").empty();
 });
+
+function() {
+  document.getElementById("myCheck").click();
+}
