@@ -9,3 +9,9 @@ console.log(5<=5,6)
 
 //confirm("Joey!");
 //prompt("Which Friends character are you?");
+var submitButton = 
+
+submitButton.click(function(e) {	
+  deleteValue("sophiasList");
+  $("#list-display").empty()
+})
