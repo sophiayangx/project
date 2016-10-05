@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+  </head>
+  <body>
+    <div class="dropdown">
+      <span>Home</span>
+      <div class="dropdown-content">
+        <p>Quiz</p>
+      </div>
+    </div>
+    <br><br>
+    
+    <form class="forms">
+  Which Friends character are you?
+  <br>First name:<br>
+  <input type="text" name="firstname" placeholder="First Name"><br>
+  Last name:<br>
+      <input type="text" name="lastname" placeholder="Last Name">
+</form>
+    
+    <form class="forms">
+    What is your gender?
+      <br><input type="radio" name="gender" value="male">   Male<br>
+  <input type="radio" name="gender" value="male"> Female<br>
+    <input type="radio" name="gender" value="male"> Other<br>
+    </form>
+    
+    Any other information? <br>
+    <textarea id="in" rows="10" cols="50"></textarea><br>
+    
+    <input type="submit" id="submit-button" onmouseover="myFunction()" onclick="alert('You're JOEY!')"> 
+    
+    <script src="script.js">
+    </script>
+  </body>
+</html>
