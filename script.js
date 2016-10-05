@@ -7,7 +7,6 @@ console.log(5<=5,6)
 //// return joey;
 //})
 
-v
 confirm("Joey!");
 //prompt("Which Friends character are you?");
 
