@@ -7,12 +7,13 @@ console.log(5<=5,6)
 //// return joey;
 //})
 
-//confirm("Joey!");
+v
+confirm("Joey!");
 //prompt("Which Friends character are you?");
-var submitButton = $("submit-button")
 
+var submitButton = $("submit-button")
 submitButton.click(function() {	
-  $("#list-display").empty();
+  $("#list-display").getElementbyId("");
 });
 
 function() {
